@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MilanStoychev
 - 👀 I’m interested in programming and computer science
-- 🌱 I’m currently learning asp.net core mvc
+- 🌱 I’m currently learning multiple computer languages, asp.net mvc, databases etc.
 - 💞️ I’m looking to collaborate on (not sure)
 - 📫 How to reach me by my email milan16stoychev@abv.bg
 
